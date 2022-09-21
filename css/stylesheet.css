@@ -40,14 +40,14 @@
         float: right;
         list-style-type: none;
         margin-top: 30px;
-        background-color: red;
+       
         
     
     
     }
     ul li{
         display: inline-block;
-        background-color:green;
+        
        
     }
     ul li a{
@@ -77,7 +77,7 @@
         display:list-item;
         margin: 20px;
         
-        background-color:violet; 
+        
     }
     ul ul li a{
         display: block;
